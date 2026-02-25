@@ -1,4 +1,4 @@
-# Auto Macro Tool - 自动化宏工具
+# Auto Macro Tool - 录制和回放用户的鼠标和键盘操作的小工具
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python 3.8+">
@@ -8,7 +8,7 @@
 
 ## 📋 项目概述
 
-Auto Macro Tool 是一款功能强大的桌面自动化工具，能够录制和回放用户的鼠标和键盘操作。适用于自动化测试、重复性任务处理、游戏辅助等场景。
+Auto Macro Tool 是一款能够录制和回放用户的鼠标和键盘操作的小工具，适用于重复性任务处理。
 
 ### 核心特性
 
@@ -234,7 +234,7 @@ player.stop_playing()             # 停止回放
 
 ### Q4: 支持哪些操作系统？
 
-**A**: 目前仅支持 Windows 10/11。macOS 和 Linux 支持正在开发中。
+**A**: 目前仅支持 Windows 10/11
 
 ### Q5: 录制的动作文件可以在其他电脑上使用吗？
 
