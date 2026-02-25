@@ -237,7 +237,7 @@ player.stop_playing()             # 停止回放
 ```
 MIT License
 
-Copyright (c) 2024 fonyee
+Copyright (c) 2026 fonyee
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
