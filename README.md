@@ -58,7 +58,7 @@ Auto Macro Tool 是一款能够录制和回放用户的鼠标和键盘操作的�
 ## 📖 使用指南
 
 ### 界面说明
-<img width="953" height="1084" alt="screenshot" src="https://github.com/user-attachments/assets/d7bc727b-1166-47df-8234-6ff6b2268e86" />
+<img width="238" height="271" alt="screenshot" src="https://github.com/user-attachments/assets/d7bc727b-1166-47df-8234-6ff6b2268e86" />
 
 ```
 ┌─────────────────────────────────────┐
